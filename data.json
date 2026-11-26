@@ -1,14 +1,54 @@
 {
-  "updated": "2026-11-25T16:58:34+08:00",
+  "updated": "2026-11-26T08:06:47+08:00",
   "source": "中国新闻网 滚动新闻",
   "items": [
-    {"title": "新疆织密零工就业服务网", "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737613.shtml", "source": "中新网·财经", "time": "11-25 16:45"},
-    {"title": "海南城乡低保标准统一提升至850元/月", "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737601.shtml", "source": "中新网·社会", "time": "11-25 16:42"},
-    {"title": "银川第三热源项目启动建设 打造绿色清洁供热新支撑", "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737600.shtml", "source": "中新网·财经", "time": "11-25 16:34"},
-    {"title": "11月25日“农产品批发价格200指数”比昨天上升0.15个点", "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737534.shtml", "source": "中新网·财经", "time": "11-25 15:07"},
-    {"title": "“京沪神车”1462次谢幕 曾是铁路线上定员最大列车之一", "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737522.shtml", "source": "中新网·社会", "time": "11-25 14:35"},
-    {"title": "四川推进“一老一小”食品安全整治 养老机构隐患整改率达99.5%", "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737517.shtml", "source": "中新网·社会", "time": "11-25 14:29"},
-    {"title": "新疆铁路普速列车新车次启用", "url": "https://www.chinanews.com.cn/tp/2026/11-25/10737507.shtml", "source": "中新网·图片", "time": "11-25 14:25"},
-    {"title": "湖南长沙县：新就业群体变身社区治理“合伙人”", "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737433.shtml", "source": "中新网·社会", "time": "11-25 11:29"}
+    {
+      "title": "新一轮冷空气将影响北方地区",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737880.shtml",
+      "source": "中新网·社会",
+      "time": "11-26 08:01"
+    },
+    {
+      "title": "从囤商品到囤服务 小小购物车装着消费大趋势",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737860.shtml",
+      "source": "中新网·财经",
+      "time": "11-26 06:55"
+    },
+    {
+      "title": "浙江多地最低气温创下半年新低 阴冷收尾将升温至“20℃+”",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737790.shtml",
+      "source": "中新网·社会",
+      "time": "11-25 21:04"
+    },
+    {
+      "title": "重庆出台新规强化农民工工资支付保障",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737772.shtml",
+      "source": "中新网·财经",
+      "time": "11-25 20:24"
+    },
+    {
+      "title": "2026年宁夏已储备养老服务等各类项目150余个",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737721.shtml",
+      "source": "中新网·社会",
+      "time": "11-25 19:21"
+    },
+    {
+      "title": "青藏铁路通车20年 一位铁路人的第一声广播与她的第二故乡",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737719.shtml",
+      "source": "中新网·社会",
+      "time": "11-25 19:21"
+    },
+    {
+      "title": "冷空气持续影响 广东最低气温降至10.3℃",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737690.shtml",
+      "source": "中新网·社会",
+      "time": "11-25 18:18"
+    },
+    {
+      "title": "特写：62名几内亚一线铁路职工内蒙古学艺记",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737658.shtml",
+      "source": "中新网·社会",
+      "time": "11-25 18:14"
+    }
   ]
 }
